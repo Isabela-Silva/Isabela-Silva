@@ -2,7 +2,7 @@
 
 ☕ Habilidades: **HTML, CSS, JavaScript, Sass.**
 
-💼 Ferramentas: **VS Code, Figma, Vercel, Github.**
+💼 Ferramentas: **VS Code, Figma, Vercel, DevTools, Github.**
 
 ##
 
