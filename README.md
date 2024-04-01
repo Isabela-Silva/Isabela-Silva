@@ -1,8 +1,8 @@
-💜 *Olá, meu nome é **Isabela Silva**. Sou técnica em informática na escola técnica do pará **- eetepa** mas pretendo seguir carreira como **programadora***
+💜 *Olá, meu nome é **Isabela Silva**. 
 
-☕ Habilidades: **HTML, CSS, JavaScript, Sass.**
+☕ Habilidades: **React, Typescript**
 
-💼 Ferramentas: **VS Code, Figma, Vercel, DevTools, Github.**
+
 
 ##
 
