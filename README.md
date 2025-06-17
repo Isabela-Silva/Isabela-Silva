@@ -25,6 +25,7 @@
      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 
 </div>
- 
+
+ ![bagde_alura](https://github.com/user-attachments/assets/e74b0c14-68f5-40f8-91ce-94964374660e)
   
 ![Badge-Conversor](https://github.com/user-attachments/assets/81312c1e-8e3f-4c31-8cb1-eae06fbe6f32)
