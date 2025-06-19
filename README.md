@@ -9,6 +9,10 @@
 🌱 Always learning and exploring new technologies  
 🎯 Focused on writing clean, efficient code  
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -57,13 +61,6 @@
 
 ---
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isabela-Silva&theme=radical&bg_color=0d1117&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 <div align="center">
   
@@ -73,10 +70,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isabela-Silva&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 <div align="center">
   
